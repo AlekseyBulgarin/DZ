@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DZ_ST_C++_06.cpp" />
     <ClCompile Include="function.cpp" />
     <ClCompile Include="prog.cpp" />
   </ItemGroup>
