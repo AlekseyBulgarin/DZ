@@ -95,6 +95,7 @@ void sortArrayDouble(double arr[], int size) {
     }
 }
 
+
 void editValueDouble(double arr[], int index, double value) {
     if (index >= 0 && index < 10) {
         arr[index] = value;
